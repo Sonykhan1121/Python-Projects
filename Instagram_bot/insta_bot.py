@@ -10,5 +10,5 @@ if os.path.exists(config_folder):
     shutil.rmtree(config_folder)
 
 bot = Bot()
-bot.login(username='sonykhan1121',password='SidratulMontaha01871787348')
+bot.login(username='sonykhan1121',password='SidratulMontaha')
 bot.follow('zuck')
